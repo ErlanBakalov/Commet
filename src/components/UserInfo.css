@@ -1,0 +1,17 @@
+.UserInfo {
+    background-color: rgb(141, 103, 33);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 80px;
+    border-radius: 10px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px blue;
+}
+
+.UserInfo-name {
+    margin-top: 15px;
+}
+.Avatar {
+    margin-top: 15px;
+}

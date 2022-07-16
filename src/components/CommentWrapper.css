@@ -1,0 +1,15 @@
+.CommentWrapper {
+    background-color: rgb(141, 103, 33);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100px;
+    box-shadow: 2px 2px 2px blue;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.Comment-date {
+    
+    text-align: center;
+}
