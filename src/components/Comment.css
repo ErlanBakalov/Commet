@@ -1,7 +1,9 @@
 .Comment {
     margin-top: 20px;
+   
+}
+.commentContent {
     display: flex;
     justify-content: center;
-    flex-direction: column;
-    align-items: center;
+
 }
